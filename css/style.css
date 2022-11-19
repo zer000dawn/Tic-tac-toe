@@ -1,0 +1,101 @@
+h1 {
+  text-align: center;
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repat(3, 1fr);
+}
+
+#sqr1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+#sqr9 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 200px;
+  width: 372px;
+  height: 372px;
+}
+
+/*# sourceMappingURL=style.css.map */

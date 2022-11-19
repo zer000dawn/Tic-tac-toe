@@ -1,0 +1,54 @@
+$size: 372px;
+@mixin tamanio(){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 200px;
+    width: $size;
+    height: $size;
+}
+
+h1{
+    text-align:center;
+}
+#grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repat(3, 1fr);
+}
+
+#sqr1{
+    @include tamanio();
+}
+
+#sqr2 {
+    @include tamanio();
+}
+
+#sqr3 {
+    @include tamanio();
+}
+
+#sqr4 {
+    @include tamanio();
+}
+
+#sqr5 {
+    @include tamanio();
+}
+
+#sqr6 {
+    @include tamanio();
+}
+#sqr7 {
+    @include tamanio();
+}
+
+#sqr8 {
+    @include tamanio();
+}
+
+#sqr9 {
+    @include tamanio();
+}
